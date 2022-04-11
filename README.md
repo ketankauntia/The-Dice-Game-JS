@@ -1,5 +1,7 @@
 # DICE GAME
 
+Just a simple Project, run the index.html file.
+
 - Win = First to reach exact 20 OR Player who is stays within 20 before the other player looses for crossing 20.
 - Reset the game with the "NEW GAME" button.
 - Play using "ROLL DICE" and "HOLD".
